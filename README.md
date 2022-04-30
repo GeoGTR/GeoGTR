@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate frontend developer from Turke</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **ReactJS, Nuxt3, React Native**
 
