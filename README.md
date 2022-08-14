@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I am passionate about developing great software that improves the lives of those around me.</h3>
 
-- 🌱 I’m currently learning **ReactJS, Nuxt3, React Native**
+- 🌱 I’m currently learning **Flutter, ReactJS, Nuxt3, React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.fatihozgur.software](https://www.fatihozgur.software)
 
