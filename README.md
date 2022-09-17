@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fatihozgurcmpe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rfFfmqgyVhxwuOnjhMmD_2cE3C4P0nEt/view](https://drive.google.com/file/d/1rfFfmqgyVhxwuOnjhMmD_2cE3C4P0nEt/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aLqXOmdCtN0hbajkP-1nb4DoeJ-n1nZ_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
