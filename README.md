@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">I am passionate about developing great software that improves the lives of those around me.</h3>
+<h3 align="center">Proficient in rapid issue resolution, my approach to troubleshooting streamlines processes and maintains the highest standards of operational excellence.</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
