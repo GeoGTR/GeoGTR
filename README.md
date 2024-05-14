@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.fatihozgur.software](https://www.fatihozgur.software)
-
 - 📫 How to reach me **fatihozgurcmpe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
