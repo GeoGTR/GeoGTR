@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Proficient in rapid issue resolution, my approach to troubleshooting streamlines processes and maintains the highest standards of operational excellence.</h3>
 
-- 🌱 I’m currently working in Ankasoft as **DevOps Engineer**
+- 🌱 I’m currently working in Cloud4Next as **DevOps Engineer**
 
 - 📫 How to reach me **fatihozgurcmpe@gmail.com**
 
